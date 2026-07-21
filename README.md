@@ -33,10 +33,12 @@ User Now Added Successfully:  <br/>
 <br />
 <br />
   <br/>
+Now I did the assignment to the user jack 
+<img src=https://i.imgur.com/9J3aQP0.png/>
+<img src=https://i.imgur.com/PXBBG3S.png/>
+<img src=https://i.imgur.com/CuSizaC.png/>
+<img src=https://i.imgur.com/jPOraYw.png/>
 
-<br />
-<br />
-:  <br/>
 
 <br />
 <br />
