@@ -20,7 +20,7 @@ LAB: <br/>
 <img src=https://i.imgur.com/DDzzBCD.png/>
 <br />
 <br />
-Select Review + Create. Then select Create on the review screen. The user is now created and registered to your organization.:  <br/>
+Select Review + Create. Then select Create on the review screen. The user is now created and registered to my organization.:  <br/>
 <img src=https://i.imgur.com/EvUvzOK.png/>
 <br />
 <br />
