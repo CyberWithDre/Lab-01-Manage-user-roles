@@ -1,6 +1,6 @@
 <h1>Manage user roles</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 My company recently hired a new employee who will perform duties as an application administrator. I create a new user and assign the appropriate role.
